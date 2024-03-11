@@ -8,4 +8,3 @@ The Endless Online Helper project aims to provide a comprehensive toolset for pl
 - **Player Online Tracker:** Quickly check who's online to coordinate activities with other players.
 - **Helpful Links:** Access a curated collection of links to resources and guides to enhance your gameplay experience.
 
-Whether you're questing, battling, or exploring, the Endless Online Helper is your go-to companion for maximizing enjoyment and success in the world of Endless Online. Join us in shaping the future of this project and making gaming more accessible and enjoyable for all players.
